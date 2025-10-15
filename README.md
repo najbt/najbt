@@ -34,9 +34,11 @@ Here are some ideas to get you started:
 
 ---
 
-### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=najbt&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=najbt&layout=compact&theme=tokyonight)
+## 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=najbt&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najbt&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" height="165" />
+</p>
 
 ---
 
