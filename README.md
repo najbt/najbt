@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there, I'm [Your Name] 👋
-
 💡 **About Me**
-- 🌱 I’m currently learning **[Your current focus — e.g., React, Node.js, or full-stack development]**
+- 🌱 I’m currently learning **full-stack development**
 - 💻 I enjoy working with **[Technologies or languages you love — e.g., JavaScript, CSS, HTML, React]**
 - 🎯 My goal is to **[Your goal — e.g., become a front-end developer / contribute to open-source projects]**
 - ⚡ Fun fact: **[Something fun or interesting about you]**
