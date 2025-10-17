@@ -25,18 +25,19 @@ Here are some ideas to get you started:
 
 ### 🧰 Tech Stack
 <p align="center">
-<img src="https://cdn.simpleicons.org/html5/E34F26" width="40" height="40" />
-<img src="https://cdn.simpleicons.org/css/663399" width="40" height="40" />
-<img src="https://cdn.simpleicons.org/sass/CC6699" width="40" height="40" />
-<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" height="40" />
-<img src="https://cdn.simpleicons.org/json/F7DF1E" width="40" height="40" />
-<img src="https://cdn.simpleicons.org/react/61DAFB" width="40" height="40" />
-<img src="https://cdn.simpleicons.org/node.js/5FA04E" width="40" height="40" />
-<img src="https://cdn.simpleicons.org/express/000000" width="40" height="40" />
-<img src="https://cdn.simpleicons.org/postman/FF6C37" width="40" height="40" />
-<img src="https://cdn.simpleicons.org/mongodb/47A248" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" width="40" height="40" />
+  <!-- <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.simpleicons.org/html5/E34F26" width="40" height="40" /></a> -->
+  <!-- <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.simpleicons.org/css3/1572B6" width="40" height="40" /></a> -->
+  <a href="https://sass-lang.com/" target="_blank"><img src="https://cdn.simpleicons.org/sass/CC6699" width="40" height="40" /></a>
+  <!-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" height="40" /></a> -->
+  <a href="https://www.json.org/json-en.html" target="_blank"><img src="https://cdn.simpleicons.org/json/F7DF1E" width="40" height="40" /></a>
+  <a href="https://react.dev/" target="_blank"><img src="https://cdn.simpleicons.org/react/61DAFB" width="40" height="40" /></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="40" height="40" /></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://cdn.simpleicons.org/express/000000" width="40" height="40" /></a>
+  <a href="https://www.postman.com/" target="_blank"><img src="https://cdn.simpleicons.org/postman/FF6C37" width="40" height="40" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.simpleicons.org/mongodb/47A248" width="40" height="40" /></a>
+  <a href="https://insomnia.rest/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" width="40" height="40" /></a>
 </p>
+
 
 
 
