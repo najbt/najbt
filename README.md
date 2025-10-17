@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ### 🧰 Tech Stack
 <p>
   <!-- <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.simpleicons.org/html5/E34F26" width="40" height="40" /></a> -->
-  <!-- <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.simpleicons.org/css3/1572B6" width="40" height="40" /></a> -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" width="40" height="40" /></a>
   <a href="https://sass-lang.com/" target="_blank"><img src="https://cdn.simpleicons.org/sass/CC6699" width="40" height="40" /></a>
   <!-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" height="40" /></a> -->
   <a href="https://www.json.org/json-en.html" target="_blank"><img src="https://cdn.simpleicons.org/json/F7DF1E" width="40" height="40" /></a>
