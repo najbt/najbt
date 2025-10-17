@@ -1,20 +1,5 @@
 # Hi there, I'm Najah 👋
 
-<!--
-**najbt/najbt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 💡 **About Me**
 - 🌱 I’m currently learning **full-stack development**
 - 💻 I enjoy learning **Frontend Development and Backend Engineering**
@@ -25,10 +10,10 @@ Here are some ideas to get you started:
 
 ### 🧰 Tech Stack
 <p>
-  <!-- <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.simpleicons.org/html5/E34F26" width="40" height="40" /></a> -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="40" height="40" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" width="40" height="40" /></a>
   <a href="https://sass-lang.com/" target="_blank"><img src="https://cdn.simpleicons.org/sass/CC6699" width="40" height="40" /></a>
-  <!-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" height="40" /></a> -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon~alt.svg" width="40" height="40" /></a>
   <a href="https://www.json.org/json-en.html" target="_blank"><img src="https://cdn.simpleicons.org/json/F7DF1E" width="40" height="40" /></a>
   <a href="https://react.dev/" target="_blank"><img src="https://cdn.simpleicons.org/react/61DAFB" width="40" height="40" /></a>
   <a href="https://nodejs.org/" target="_blank"><img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="40" height="40" /></a>
@@ -37,11 +22,6 @@ Here are some ideas to get you started:
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.simpleicons.org/mongodb/47A248" width="40" height="40" /></a>
   <a href="https://insomnia.rest/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" width="40" height="40" /></a>
 </p>
-
-
-
-
-<!--*(Add or remove badges depending on what you know)*-->
 
 ---
 
@@ -54,7 +34,6 @@ Here are some ideas to get you started:
 ---
 
 ### 📫 Connect With Me
-<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([your-linkedin-link])-->
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:najabatshukur@gmail.com)
 
 ---
