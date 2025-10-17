@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 ---
 
 ### 🧰 Tech Stack
+<p align="center">
 <img src="https://cdn.simpleicons.org/html5/E34F26" width="40" height="40" />
 <img src="https://cdn.simpleicons.org/css/663399" width="40" height="40" />
 <img src="https://cdn.simpleicons.org/sass/CC6699" width="40" height="40" />
@@ -35,7 +36,7 @@ Here are some ideas to get you started:
 <img src="https://cdn.simpleicons.org/postman/FF6C37" width="40" height="40" />
 <img src="https://cdn.simpleicons.org/mongodb/47A248" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" width="40" height="40" />
-
+</p>
 
 
 
