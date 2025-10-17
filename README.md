@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ---
 
 ### 🧰 Tech Stack
-<p align="center">
+<p>
   <!-- <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.simpleicons.org/html5/E34F26" width="40" height="40" /></a> -->
   <!-- <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.simpleicons.org/css3/1572B6" width="40" height="40" /></a> -->
   <a href="https://sass-lang.com/" target="_blank"><img src="https://cdn.simpleicons.org/sass/CC6699" width="40" height="40" /></a>
