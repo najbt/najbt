@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 [![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white)](#)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
+<img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
 
 <!--*(Add or remove badges depending on what you know)*-->
 
