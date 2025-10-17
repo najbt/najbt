@@ -33,10 +33,11 @@ Here are some ideas to get you started:
 [![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#)
 [![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white)](#)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
-<img src="https://img.shields.io/badge/- -?logo=react&logoColor=61DAFB&labelColor=20232A&style=flat" />
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#
 <img src="https://cdn.simpleicons.org/postman/FF6C37" width="40" height="40" />
 <img src="https://cdn.simpleicons.org/react/61DAFB" width="40" height="40" />
+<img src="https://cdn.simpleicons.org/insomnia/4000BF" width="40" height="40" />
+
 
 
 <!--*(Add or remove badges depending on what you know)*-->
