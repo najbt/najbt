@@ -24,22 +24,18 @@ Here are some ideas to get you started:
 ---
 
 ### 🧰 Tech Stack
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
-[![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#)
-[![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white)](#)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
 <img src="https://cdn.simpleicons.org/html5/E34F26" width="40" height="40" />
-<img src="https://cdn.simpleicons.org/css3/663399" width="40" height="40" />
+<img src="https://cdn.simpleicons.org/css/663399" width="40" height="40" />
 <img src="https://cdn.simpleicons.org/sass/CC6699" width="40" height="40" />
 <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" height="40" />
-<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" height="40" />
+<img src="https://cdn.simpleicons.org/json/F7DF1E" width="40" height="40" />
 <img src="https://cdn.simpleicons.org/react/61DAFB" width="40" height="40" />
-<img src="https://cdn.simpleicons.org/nodejs/5FA04E" width="40" height="40" />
+<img src="https://cdn.simpleicons.org/node.js/5FA04E" width="40" height="40" />
 <img src="https://cdn.simpleicons.org/express/000000" width="40" height="40" />
 <img src="https://cdn.simpleicons.org/postman/FF6C37" width="40" height="40" />
 <img src="https://cdn.simpleicons.org/mongodb/47A248" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" width="40" height="40" />
+
 
 
 
