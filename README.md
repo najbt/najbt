@@ -3,8 +3,6 @@
 💡 **About Me**
 - 🌱 I’m currently learning **full-stack development**
 - 💻 I enjoy learning **Frontend Development and Backend Engineering**
-- 🎯 My goal is to **become a front-end developer / contribute to open-source projects**
-- ⚡ Fun fact: **[Something fun or interesting about you]**
 
 ---
 
