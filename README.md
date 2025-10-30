@@ -3,7 +3,7 @@
 💡 **About Me**
 - 🌱 I’m currently learning **full-stack development**
 - 💻 I enjoy learning **Frontend Development and Backend Engineering**
-
+- 🎯 I wanna contribute to open-source projects**
 ---
 
 ### 🧰 Tech Stack
